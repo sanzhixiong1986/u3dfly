@@ -878,6 +878,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="BestHTTP.csproj">
+      <Project>{F189091E-E8D7-1BC4-74F5-3E9C3660FCA0}</Project>
+      <Name>BestHTTP</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

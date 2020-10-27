@@ -2,6 +2,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A3A86489-9CDB-D13C-1B3F-D991AA024C87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestHTTP", "BestHTTP.csproj", "{F189091E-E8D7-1BC4-74F5-3E9C3660FCA0}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0D11A822-4FCE-291A-D6FF-0FF9C1F2DD22}"
 EndProject
 Global
@@ -14,6 +16,10 @@ Global
 		{A3A86489-9CDB-D13C-1B3F-D991AA024C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3A86489-9CDB-D13C-1B3F-D991AA024C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3A86489-9CDB-D13C-1B3F-D991AA024C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F189091E-E8D7-1BC4-74F5-3E9C3660FCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F189091E-E8D7-1BC4-74F5-3E9C3660FCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F189091E-E8D7-1BC4-74F5-3E9C3660FCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F189091E-E8D7-1BC4-74F5-3E9C3660FCA0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0D11A822-4FCE-291A-D6FF-0FF9C1F2DD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0D11A822-4FCE-291A-D6FF-0FF9C1F2DD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D11A822-4FCE-291A-D6FF-0FF9C1F2DD22}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -797,6 +797,10 @@
       <Project>{A3A86489-9CDB-D13C-1B3F-D991AA024C87}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="BestHTTP.csproj">
+      <Project>{F189091E-E8D7-1BC4-74F5-3E9C3660FCA0}</Project>
+      <Name>BestHTTP</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
