@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{22A8110D-CE4F-1A29-D6FF-0FF9C1F2DD22}|单元测试">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Main.cs">
+    <Files>
+      <File FileName="Assets/Script/Main.cs" Line="10" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PoerMVC" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="Model" expanded="True" />
+                  <Node name="Main.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
