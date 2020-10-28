@@ -61,25 +61,19 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Script/Model/Count2Proxy.cs" />
-    <Compile Include="Assets/Script/Model/CountProxy.cs" />
-    <Compile Include="Assets/Script/UnityFacade.cs" />
-    <Compile Include="Assets/Script/Main.cs" />
-    <Compile Include="Assets/Script/View/Count1Mediator.cs" />
-    <Compile Include="Assets/Script/UI/MyBox.cs" />
-    <Compile Include="Assets/Script/UI/CreateCountBox.cs" />
-    <Compile Include="Assets/Script/Command/StartUpCommand.cs" />
-    <Compile Include="Assets/Script/View/Count2Mediator.cs" />
-    <Compile Include="Assets/Script/MediatorPlug.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs" />
     <Compile Include="Assets/NGUI/Scripts/Tweening/TweenOrthoSize.cs" />
     <Compile Include="Assets/NGUI/Scripts/Internal/BetterList.cs" />
+    <Compile Include="Assets/Script/Model/Count2Proxy.cs" />
     <Compile Include="Assets/NGUI/Scripts/UI/UIPanel.cs" />
+    <Compile Include="Assets/Script/Model/CountProxy.cs" />
     <Compile Include="Assets/NGUI/Scripts/UI/UISpriteCollection.cs" />
+    <Compile Include="Assets/Script/UnityFacade.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIDragResize.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIForwardEvents.cs" />
     <Compile Include="Assets/NGUI/Scripts/Tweening/TweenHeight.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIToggledComponents.cs" />
+    <Compile Include="Assets/Script/Main.cs" />
     <Compile Include="Assets/NGUI/Scripts/Internal/Localization.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIButtonScale.cs" />
     <Compile Include="Assets/NGUI/Examples/Scripts/Other/PerspectivePixelPerfect.cs" />
@@ -112,6 +106,7 @@
     <Compile Include="Assets/NGUI/Scripts/UI/UIInputOnGUI.cs" />
     <Compile Include="Assets/NGUI/Scripts/UI/UILocalize.cs" />
     <Compile Include="Assets/NGUI/Scripts/Tweening/TweenPosition.cs" />
+    <Compile Include="Assets/Script/View/Count1Mediator.cs" />
     <Compile Include="Assets/NGUI/Examples/Scripts/Other/LoadLevelOnClick.cs" />
     <Compile Include="Assets/NGUI/Examples/Scripts/Other/ExampleDragDropSurface.cs" />
     <Compile Include="Assets/NGUI/Scripts/Internal/UISnapshotPoint.cs" />
@@ -135,6 +130,7 @@
     <Compile Include="Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIStorageSlot.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIEventTrigger.cs" />
     <Compile Include="Assets/NGUI/Scripts/Internal/MinMaxRangeAttribute.cs" />
+    <Compile Include="Assets/Script/UI/MyBox.cs" />
     <Compile Include="Assets/NGUI/Scripts/Internal/UIDrawCall.cs" />
     <Compile Include="Assets/NGUI/Scripts/UI/UICamera.cs" />
     <Compile Include="Assets/NGUI/Examples/Scripts/InventorySystem/System/InvAttachmentPoint.cs" />
@@ -143,6 +139,7 @@
     <Compile Include="Assets/NGUI/Examples/Scripts/Other/ChatInput.cs" />
     <Compile Include="Assets/NGUI/Scripts/UI/UITooltip.cs" />
     <Compile Include="Assets/NGUI/Scripts/UI/UIInput.cs" />
+    <Compile Include="Assets/Script/UI/CreateCountBox.cs" />
     <Compile Include="Assets/NGUI/Examples/Scripts/Other/Spin.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIPlaySound.cs" />
     <Compile Include="Assets/NGUI/Scripts/Internal/UIRect.cs" />
@@ -196,8 +193,10 @@
     <Compile Include="Assets/NGUI/Scripts/Tweening/AnimatedAlpha.cs" />
     <Compile Include="Assets/NGUI/Scripts/UI/UIStretch.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIDragDropItem.cs" />
+    <Compile Include="Assets/Script/Command/StartUpCommand.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIKeyBinding.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/LanguageSelection.cs" />
+    <Compile Include="Assets/Script/View/Count2Mediator.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UIDragCamera.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UISlider.cs" />
     <Compile Include="Assets/NGUI/Scripts/Interaction/UITable.cs" />
@@ -214,7 +213,9 @@
     <Compile Include="Assets/NGUI/Scripts/Internal/NGUITools.cs" />
     <Compile Include="Assets/NGUI/Examples/Scripts/Other/UISliderColors.cs" />
     <Compile Include="Assets/NGUI/Examples/Scripts/InventorySystem/System/InvStat.cs" />
+    <Compile Include="Assets/Script/MediatorPlug.cs" />
     <Compile Include="Assets/NGUI/Scripts/Internal/RealTime.cs" />
+    <Compile Include="Assets/Script/NetWork.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/NGUI/Examples/Atlases/Wooden/Arimo20.txt" />

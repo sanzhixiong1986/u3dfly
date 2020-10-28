@@ -8,6 +8,8 @@ public class Main : MonoBehaviour {
 	void Awake () {
 		//启动Facade操作
 		UnityFacade.GetInstance().StartUp();
+		//net启动
+		NetWork.GetNetWork().init();
 	}
 	
 	// Update is called once per frame

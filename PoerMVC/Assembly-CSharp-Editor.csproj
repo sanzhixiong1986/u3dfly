@@ -61,7 +61,6 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/VSCode/Plugins/Editor/VSCode.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/TweenScaleEditor.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/UIEventTriggerEditor.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/UI2DSpriteEditor.cs" />
@@ -126,6 +125,7 @@
     <Compile Include="Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/TypewriterEffectEditor.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/UIPlayTweenEditor.cs" />
+    <Compile Include="Assets/VSCode/Plugins/Editor/VSCode.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/UIStretchEditor.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/TweenRotationEditor.cs" />
     <Compile Include="Assets/NGUI/Scripts/Editor/NGUIHandles.cs" />
