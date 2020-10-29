@@ -6,10 +6,11 @@ public class Main : MonoBehaviour {
 
 	// Use this for initialization
 	void Awake () {
+		Debug.Log("main方法操作没有");
 		//启动Facade操作
 		UnityFacade.GetInstance().StartUp();
 		//net启动
-		NetWork.GetNetWork().init();
+		NetWork.init();
 	}
 	
 	// Update is called once per frame

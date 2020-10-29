@@ -1,20 +1,21 @@
 ﻿<Properties StartupConfiguration="{A3A86489-9CDB-D13C-1B3F-D991AA024C87}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/NetWork.cs">
     <Files>
-      <File FileName="Assets/Script/Main.cs" Line="12" Column="1" />
-      <File FileName="Assets/Script/UnityFacade.cs" />
+      <File FileName="Assets/Script/Main.cs" Line="13" Column="7" />
+      <File FileName="Assets/Script/UnityFacade.cs" Line="24" Column="47" />
+      <File FileName="Assets/Script/NetWork.cs" Line="7" Column="19" />
+      <File FileName="Assets/Script/Command/StartUpCommand.cs" Line="9" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PoerMVC" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Script" expanded="True">
-                <Node name="Main.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Assets" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
