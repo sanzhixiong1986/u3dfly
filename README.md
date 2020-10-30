@@ -19,3 +19,9 @@ https://zhuanlan.zhihu.com/p/142619941
 https://blog.csdn.net/hemiaoyuan1989/article/details/97006121
 
 4.打包成ipa（正在测试）
+
+
+
+5.复杂的u3d开源项目
+
+https://my.oschina.net/u/1769474/blog/282418
