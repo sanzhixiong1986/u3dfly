@@ -3,15 +3,13 @@
     <Files>
       <File FileName="Assets/Script/Main.cs" Line="13" Column="7" />
       <File FileName="Assets/Script/UnityFacade.cs" Line="24" Column="47" />
-      <File FileName="Assets/Script/NetWork.cs" Line="7" Column="19" />
+      <File FileName="Assets/Script/NetWork.cs" Line="21" Column="78" />
       <File FileName="Assets/Script/Command/StartUpCommand.cs" Line="9" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PoerMVC" expanded="True">
-            <Node name="Assets" expanded="True" />
-          </Node>
+          <Node name="PoerMVC" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
